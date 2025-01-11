@@ -1,3 +1,4 @@
 # motif-eval
 
-python evaluate.py
+```python evaluate.py
+```
